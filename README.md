@@ -23,7 +23,7 @@
 <hr>
 
 # Credits 
-- ### [Dhruv Pasricha](https://github.com/DhruvPasricha)
-- ### [Rahul Gandhi](https://github.com/RGTechno)
+- ### [Vishvam Salwan]([https://github.com/VSalwan])
+
 
 <hr>
