@@ -23,7 +23,7 @@
 <hr>
 
 # Credits 
-- ### [Vishvam Salwan]([https://github.com/VSalwan])
+- ### [Vishvam Salwan](https://github.com/VSalwan)
 
 
 <hr>
